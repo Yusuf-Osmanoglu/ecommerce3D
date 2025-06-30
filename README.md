@@ -128,6 +128,6 @@ Distributed under the [LİSANS_TÜRÜ] License. See `LICENSE` for more informati
 
 ## Contact
 
-Yusuf Osmanoğlu - [Your LinkedIn Profile](https://www.linkedin.com/in/yusuf-osmanoglu-/) - [YOUR_EMAIL_ADDRESS](yusufosmanoglu2003@outlook.com)
+Yusuf Osmanoğlu - [LinkedIn Profile](https://www.linkedin.com/in/yusuf-osmanoglu-/) - [EMAIL_ADDRESS](yusufosmanoglu2003@outlook.com)
 
 Project Link: (https://github.com/Yusuf-Osmanoglu/ecommerce3D)
